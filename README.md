@@ -1,20 +1,28 @@
-# ✂️ BarberShop IA — Premium Grooming com IA
+## ✂️ BarberShop IA — Premium Grooming com Inteligência Artificial
+> *"A ciência do estilo clássico."*
 
-> "A ciência do estilo clássico."
+Barbearia premium que combina tradição artesanal com **análise facial por IA** para encontrar o corte ideal para cada cliente.
 
-**Aluna:** Maria Clara Farias Coelho
+---
 
-### 📌 Sobre
-Barbearia premium com análise facial por IA (Visagismo Digital) para recomendar o corte ideal. Projeto de Prompt Engineering.
+### 📌 Sobre o Projeto
+O **BarberShop IA** é um projeto de aplicação prática de **Prompt Engineering e Inteligência Artificial** desenvolvido para demonstrar como a IA pode ser integrada em um negócio real do setor de beleza e grooming masculino.
 
-### 🤖 Funcionalidades IA
-- Análise de rosto (Oval, Redondo, Quadrado, Alongado, Coração)
-- Agendamento online
-- Loja de produtos
-- Login com Google
+A plataforma une a estética de uma barbearia premium com funcionalidades inteligentes como:
+- Análise de rosto por IA (Visagismo Digital)
+- Agendamento online de horários
+- Loja de produtos profissionais
+- Autenticação com e-mail e Google
 
-### 🛠️ Tecnologias
-Lovable, React + Vite, Tailwind, Supabase
+### 🤖 Funcionalidades com IA
+#### 🎯 Análise de Rosto IA (Visagismo Digital)
+A IA cruza os traços faciais do usuário com técnicas de visagismo para recomendar o corte mais valorizado. O usuário seleciona o formato do rosto **(Oval, Redondo, Quadrado, Alongado ou Coração)** e recebe uma análise personalizada considerando proporções, ângulos e densidade capilar.
 
-### 👥 Equipe
-Miguel Gonçalves, Murilo Neves, Pedro Oliveira, Ruan Silva, Daniel Peixoto, Douglas Lima, Pedro Silva, Gustavo Santos, Maria Clara Farias, Matheus Melo, Marco Lira
+#### 💬 Prompts Utilizados
+Projeto construído inteiramente via Prompt Engineering na plataforma **Lovable**:
+- Geração de layout premium (tema preto e dourado)
+- Criação das páginas: Home, Login, Análise IA e Loja
+- Lógica de recomendação baseada em formato facial
+- Design responsivo e profissional sem código manual
+
+### 🛠️ Tecnologias e
